@@ -3,5 +3,6 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   bupropion-oral: bupropion-oral.html
+  openVBE: openVBE.html
   testosterone-dermal: testosterone-dermal.html
-last_built: 2025-04-05T08:24Z
+last_built: 2025-04-08T18:56Z
